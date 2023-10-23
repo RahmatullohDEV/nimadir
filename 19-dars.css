@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.katta{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.katta h1{
+    font-size: 30px;
+    font-weight: 900;
+    color: rgba(223, 0, 0, 0.699);
+}
+
+.katta h3{
+    font-size: 20px;
+    font-weight: 200;
+    padding-top: 50px;
+    color: rgb(0, 0, 0);
+}
+
+nav ul {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+nav ul li{
+    list-style: none;
+    padding: 20px;
+}
+
+
+
+#ic1{
+    color: rgb(0, 125, 234);
+    font-size: 30px;
+}
+
+.ic2{
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+}
+
+.ic3{
+    color: red;
+    font-size: 30px;
+}
+
+.ic4{
+    color: rgb(249, 37, 203);
+    font-size: 30px;
+}
+
+
